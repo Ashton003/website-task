@@ -1,3 +1,10 @@
+
+h2{
+    text-decoration: underline; font-weight: bold;
+}
+h1{
+    font-weight: bolder; background-color:#636161 ;
+}
 body{
-    background-color:#969393 ;
+    background-color:#969393 ; text-align: center;
 }
